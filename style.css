@@ -1,9 +1,16 @@
-p {
 
+
+* {
+  background-image: url("images/pizzabackground.jpg");
+}
+
+p {
+  color: red;
+  font-size: 16px;
 }
 
 h1 {
-  color: red;
+  color: #b30000;
   font-size: 36px;
 }
 h2 {
